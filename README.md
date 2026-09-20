@@ -4,7 +4,7 @@
 MVC architecture is a software design pattern that divides an application into three interconnected parts: the Model, the View, and the Controller, to separate data handling from user interface design,
 
 > [!NOTE]
-> in this project we used python3 with custonTK and SQLite libraries, so it's required to run this project :)
+> This project was developed using Python 3, along with the CustomTkinter and SQLite libraries. These dependencies are required to run the project.
 
 
 **Dark mode** :crescent_moon:
