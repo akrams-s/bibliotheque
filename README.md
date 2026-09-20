@@ -7,7 +7,7 @@ MVC architecture is a software design pattern that divides an application into t
 > in this project we used python3 with custonTK and SQLite libraries, so it's required to run this project :)
 
 
-**Dark mode :crescent_moon: **
+**Dark mode** :crescent_moon:
 ![Library application](images/dark-mode.png)
-**Light mode :sunny: **
+**Light mode** :sunny:
 ![Library application](images/light-mode.png)
